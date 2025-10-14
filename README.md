@@ -111,10 +111,10 @@ This approach can be extended to:
 
 ## Future Work
 
-- Fine-tune Word2Vec models on domain-specific data
-- Experiment with other classification algorithms (Neural Networks, SVM)
-- Incorporate article text content in addition to titles
-- Explore transformer-based models (BERT) for comparison
+- Fine-tune Word2Vec models on domain-specific data.
+- Experiment with other classification algorithms (Neural Networks, SVM).
+- Incorporate article text content in addition to titles.
+- Explore transformer-based models (BERT) for comparison.
 
 ## Contributors
 
